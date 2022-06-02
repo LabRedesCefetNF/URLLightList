@@ -10,7 +10,7 @@ Padrão ABNT:
 LAZARIN, Nilson Mori; ALEXANDRE, Tielle da Silva. URLBlackList Lite: Uma lista enxuta de catalogação baseada na URLBlackList. In: XIII ESCOLA REGIONAL DE REDES DE COMPUTADORES (ERRC 2015), 2015., event-place: Passo Fundo - RS. Anais da XIII Escola Regional de Redes de Computadores [...]. Porto Alegre, RS, Brasil: SBC, 2015. p. 95–102.
 
 BibTex:
-
+[Arquivo de Citação](https://raw.githubusercontent.com/LabRedesCefetNF/URLLightList/main/citation.bib).
 
 
 
